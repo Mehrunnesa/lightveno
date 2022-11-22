@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 auto;
+    width: 1320px;
+}
+.clr{
+    clear: both;
+}
+#venobox{
+margin: 0 auto;
+width: 800px;
+background: url(../images/pexels-johannes-plenio-2883087.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+.overly{
+padding: 200px;
+background: rgba(0, 0, 0, 0.5);
+}
+
+.play{
+    text-align: center;
+   
+}
+.play img{
+    color: orangered;
+    width: 100px;
+}
